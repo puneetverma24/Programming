@@ -1,5 +1,7 @@
-This is implimentation of famous eular problems using java.
+This is a implimentation of famous eular problems.
+Each solved problem has a program written in Java. 
+This is tested in hackrank.com.
 
 
-https://projecteuler.net/
-https://www.hackerrank.com/contests/projecteuler/
+Original :https://projecteuler.net/
+Tested in :https://www.hackerrank.com/contests/projecteuler/
