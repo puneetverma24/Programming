@@ -1,4 +1,4 @@
-This is a implimentation of famous eular problems.
+This is a implementation of famous eular problems.
 Each solved problem has a program written in Java. 
 This is tested in hackrank.com.
 
