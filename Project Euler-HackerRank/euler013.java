@@ -30,7 +30,7 @@ public class Solution {
                temp=a/10;
            }
         
-   while(temp>0)
+   while(temp>0)     // this used because it temp has some carry ,put this in result array
         { 
          result[p]=temp%10;
          temp=temp/10;
